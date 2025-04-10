@@ -1,0 +1,2 @@
+﻿  ptg1.cpp
+D:\Programming\degree\graphics\ptg1\ptg1\ptg1.cpp(5,10): error C1083: Cannot open include file: 'GL\freeglut.h': No such file or directory
